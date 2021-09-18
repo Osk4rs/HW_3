@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hw_3_ConsoleApp1/1.0.0": {
+        "runtime": {
+          "Hw_3_ConsoleApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hw_3_ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
